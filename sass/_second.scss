@@ -1,0 +1,18 @@
+#second {
+    background-image: url(../img/second.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+}
+.second-p {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 20px;
+}
+span {
+    font-weight: bold;
+    font-size: 40px;
+}
